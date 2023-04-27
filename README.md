@@ -20,7 +20,6 @@ Grafiko is an image editor implemented with Webpack and Rust.
 
 ## Features
 
-- Image base64 decoding
-- Grayscalling effect
+- Image base64 encoding/decoding
 - Image buffering
-- Image enconding
+- Grayscalling effect
