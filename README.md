@@ -28,7 +28,7 @@ The app is implemented with Rust and compiled into WebAssembly, using the 'wasm-
 
 ## Screenshot
 
-![captures_chrome-capture-2023-3-26 (1)](https://user-images.githubusercontent.com/42308135/234752041-325a8e1d-a6f6-4f90-910f-0b999a460fdd.png)
+![captures_chrome-capture-2023-3-26 (1)](https://user-images.githubusercontent.com/42308135/234757268-75910bfd-6093-44e8-86dd-7935597eb24f.png)
 
 ## Installation
 
