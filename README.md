@@ -9,14 +9,14 @@ Grafiko is an image editor implemented with Webpack and Rust.
 
 ## Tech Stack
 
-- Webpack
 - JavaScript
+- HTML/CSS
 - Rust
-- WebAssembly
 - Crate libraries:
   - wasm-bindgen
   - base64
   - image
+- Webpack
 
 ## Features
 
