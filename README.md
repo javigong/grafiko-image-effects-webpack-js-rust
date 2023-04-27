@@ -56,4 +56,4 @@ Now the application is running on http://localhost:8080 🚀
 
 Grafiko Web App deployed using Vercel: 
 
-[https://circuitai-nextjs-typescript-redis-tailwind-nextauth-javigong.vercel.app/](https://circuitai-nextjs-typescript-redis-tailwind-nextauth-javigong.vercel.app/)
+[https://grafiko-image-effects-webpack-js-rust.vercel.app/](https://grafiko-image-effects-webpack-js-rust.vercel.app/)
