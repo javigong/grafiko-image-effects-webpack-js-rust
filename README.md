@@ -7,7 +7,7 @@ The app is implemented with Rust and compiled into WebAssembly, using the 'wasm-
 ![captures_chrome-capture-2023-3-26](https://user-images.githubusercontent.com/42308135/234749076-9a4c95bd-d711-406f-a2bc-c6148b278cad.png)
 
 
-🔗 [Open live Demo](https://grafiko-image-effects-webpack-js-rust-qcnrjhrjs-javigong.vercel.app/)
+🔗 [Open live Demo](https://grafiko-image-effects-webpack-js-rust.vercel.app/)
 
 ## Tech Stack
 
@@ -56,4 +56,4 @@ Now the application is running on http://localhost:8080 🚀
 
 Grafiko Web App deployed using Vercel: 
 
-[https://circuitai-nextjs-typescript-redis-tailwind-nextauth-javigong.vercel.app/](https://circuitai-nextjs-typescript-redis-tailwind-nextauth-javigong.vercel.app/)
+[https://grafiko-image-effects-webpack-js-rust.vercel.app/](https://grafiko-image-effects-webpack-js-rust.vercel.app/)
