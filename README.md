@@ -1,8 +1,8 @@
 # Grafiko: Image Effects Web App
 
-Grafiko is an image editor that applies a grayscalling effect to PNG images. 
+Grafiko is an image editor that applies a grayscalling effect to PNG images.
 
-The app is implemented with Rust and compiled into WebAssembly, using the 'wasm-bindgen' crate to generate a JavaScript API that runs the Rust-generated WebAssemply code.
+The grayscalling effect is a CPU intensive task that I implemented with Rust and compiled into WebAssembly. With WebAssembly the browser can access to the CPU to maximize the performance when editing images.
 
 ![captures_chrome-capture-2023-3-26](https://user-images.githubusercontent.com/42308135/234749076-9a4c95bd-d711-406f-a2bc-c6148b278cad.png)
 
